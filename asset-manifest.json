@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bitebliss/static/css/main.60710a7e.css",
+    "main.js": "/bitebliss/static/js/main.dded717b.js",
+    "static/js/453.bba2e7ed.chunk.js": "/bitebliss/static/js/453.bba2e7ed.chunk.js",
+    "static/media/home.jpeg": "/bitebliss/static/media/home.2a1f481a0b0adad06765.jpeg",
+    "static/media/about.jpeg": "/bitebliss/static/media/about.a8cf0870a9c44391bc49.jpeg",
+    "static/media/logo.jpeg": "/bitebliss/static/media/logo.fd1dfdf9a66bc7c7ccc0.jpeg",
+    "index.html": "/bitebliss/index.html",
+    "main.60710a7e.css.map": "/bitebliss/static/css/main.60710a7e.css.map",
+    "main.dded717b.js.map": "/bitebliss/static/js/main.dded717b.js.map",
+    "453.bba2e7ed.chunk.js.map": "/bitebliss/static/js/453.bba2e7ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60710a7e.css",
+    "static/js/main.dded717b.js"
+  ]
+}
